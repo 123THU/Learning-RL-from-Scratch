@@ -1,8 +1,8 @@
 ## My Learning-RL-from-Scratch
 This repo contains only IPython code from “Hands-on-RL” with my own understanding. 
+I highly recommend getting your hands dirty with the code. You will definitely learn more than you could imagine.
 
-
-If you find this repo helpful for you as well, please give a star for me. Thank you.
+If you find this repo helpful, please give it a star. Thank you (I want the badge, btw). 
 
 ## Contact
 If you have questions, suggestions, bug reports, or you want to discuss with me, please email:
