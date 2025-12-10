@@ -14,4 +14,4 @@ ruochangli@gmail.com
 If your issue does not receive a timely response, you are welcome to reach out via email.
 
 ## Acknowledgements
-This repo is built on https://github.com/boyu-ai/Hands-on-RL. I would like to thank the professors for providing the excellent codebase, which has been instrumental in advancing my research on reinforcement learning.
+This repo is built on https://github.com/boyu-ai/Hands-on-RL and https://docs.swanlab.cn/examples. I would like to thank the professors for providing the excellent codebase, which has been instrumental in advancing my research on reinforcement learning.
